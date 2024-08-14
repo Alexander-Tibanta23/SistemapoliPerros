@@ -31,6 +31,8 @@
 <% } %>
 
 <h1>Actualizar Perro</h1>
+
+<--Formulario-->
 <form id="actualizarPerroForm" action="actualizarPerro" method="post">
     <label for="id">ID:</label>
     <input type="number" id="id" name="id" value="<%= perro.getId() %>" readonly required><br>
