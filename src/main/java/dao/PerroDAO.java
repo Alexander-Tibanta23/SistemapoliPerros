@@ -47,7 +47,7 @@ public class PerroDAO {
         }
     }
 
-    // Método para eliminar un producto de la base de datos
+    // Método para eliminar un producto de la base de datos ORM
     public void eliminarPoliPerro(Perro perro) {
         Session session = HibernateUtil.getSessionFactory().openSession();
         Transaction transaction = null;
