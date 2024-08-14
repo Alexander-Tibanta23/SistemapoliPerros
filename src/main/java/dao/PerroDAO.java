@@ -28,7 +28,7 @@ public class PerroDAO {
         }
     }
 
-    // Método para actualizar un producto en la base de datos
+    // Método para actualizar un producto en la base de datos ORM
     public void actualizarPoliPerro(Perro perro) {
         Session session = HibernateUtil.getSessionFactory().openSession();
         Transaction transaction = null;
