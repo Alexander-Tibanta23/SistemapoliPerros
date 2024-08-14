@@ -22,6 +22,8 @@
     Perro perro = perroDAO.obtenerProductoPorId(id);
 %>
 
+<--Mensajes de Validaciones-->
+
 <% if ("actualizacionExitosa".equals(mensaje)) { %>
 <div class="alert alert-success">Actualización Exitosa</div>
 <% } else if ("errorActualizacion".equals(mensaje)) { %>
