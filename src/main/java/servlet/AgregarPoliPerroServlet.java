@@ -43,7 +43,7 @@ public class AgregarPoliPerroServlet extends HttpServlet {
         perroDAO.guardarPoliPerro(perro);
 
         // Redirigir a la página de gestión de inventario
-        response.sendRedirect("index.jsp");
+        response.sendRedirect("gestionInventario.jsp");
     }
 
     public void setPerroDAO(PerroDAO perroDAO) {
