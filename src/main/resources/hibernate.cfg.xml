@@ -7,8 +7,8 @@
         <!--  Database connection settings  -->
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="hibernate.connection.url">jdbc:mysql://blmgzeva7brhfkwakbhr-mysql.services.clever-cloud.com:3306/blmgzeva7brhfkwakbhr</property>
-        <property name="hibernate.connection.username">uzdgzepfwq57ysxx</property>
-        <property name="hibernate.connection.password">FC4XZSjXQNStuLHRuj9g</property>
+        <property name="hibernate.connection.username">umqkjvu4iwcbilxk</property>
+        <property name="hibernate.connection.password">wn3cYi4Gu2q64pG5GI0X</property>
         <!--  SQL dialect  -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
         <property name="hibernate.show_sql">true</property>
@@ -17,6 +17,6 @@
         <property name="hibernate.cache.use_query_cache">false</property>
         <property name="hibernate.current_session_context_class">thread</property>
         <!--  Entity Clases  -->
-        <mapping class="entity"/>
+        <mapping class="entity.Perro"/>
     </session-factory>
 </hibernate-configuration>
