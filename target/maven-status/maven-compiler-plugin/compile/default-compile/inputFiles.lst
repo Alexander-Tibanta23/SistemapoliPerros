@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\servlet\AgregarPoliPerroServlet.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\dao\PerroDAO.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\util\ConexionBD.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\entity\Perro.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\servlet\ObtenerPerroServlet.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\servlet\ActualizarPerroServlet.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\servlet\BuscarPerroServlet.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\servlet\PerroService.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\servlet\EliminarPerroServlet.java
+C:\Users\USUARIO\Desktop\SOFTWARE\METODOLOGIAS AGILES\SistemaPoliPerros\src\main\java\util\HibernateUtil.java

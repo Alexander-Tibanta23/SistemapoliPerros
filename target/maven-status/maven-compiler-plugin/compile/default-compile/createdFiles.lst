@@ -1,0 +1,10 @@
+dao\PerroDAO.class
+util\ConexionBD.class
+servlet\ActualizarPerroServlet.class
+servlet\EliminarPerroServlet.class
+util\HibernateUtil.class
+servlet\AgregarPoliPerroServlet.class
+servlet\ObtenerPerroServlet.class
+servlet\BuscarPerroServlet.class
+entity\Perro.class
+servlet\PerroService.class
