@@ -13,7 +13,7 @@ import java.io.IOException;
 @WebServlet("/eliminarPerro")
 public class EliminarPerroServlet extends HttpServlet {
     private final PerroDAO perroDAO = new PerroDAO();
-
+    //Eliminar
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String idStr = request.getParameter("id");
