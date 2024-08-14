@@ -128,7 +128,11 @@
             <label for="edad">Edad:</label>
             <input type="number" id="edad" name="edad" required><br>
             <label for="estadoSalud">Estado de Salud:</label>
-            <textarea id="estadoSalud" name="estadoSalud" required></textarea><br>
+            <select id="estadoSalud" name="estadoSalud" required>
+                <option value="bueno">Bueno</option>
+                <option value="regular">Regular</option>
+                <option value="malo">Malo</option>
+            </select>
             <label for="fechaIngreso">Fecha de Ingreso:</label>
             <input type="date" id="fechaIngreso" name="fechaIngreso" required><br>
             <label for="fechaUltimoControl">Fecha de Último Control:</label>
