@@ -56,7 +56,7 @@ public class ActualizarPerroServlet extends HttpServlet {
                 response.sendRedirect("gestionInventario.jsp?mensaje=errorActualizacion");
             }
         } catch (NumberFormatException | DateTimeParseException e) {
-            // Manejo de errores de formato de datos
+            // Manejo de errores de formato de datoss
             response.sendRedirect("gestionInventario.jsp?mensaje=errorFormatoDatos");
         }
     }
